@@ -4,7 +4,9 @@ public class Maths {
 
 	public static int add(int a, int b)
 	{
+		int i=0;
 		int c = a+b;
+		
 		return c;
 	}
 	
